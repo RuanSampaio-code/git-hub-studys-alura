@@ -6,3 +6,5 @@ Para rodar este projeto em sua maquina, por favor digite:
 ```
 node main.js
 ```
+
+:)
